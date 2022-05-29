@@ -1,0 +1,19 @@
+{
+  "kind": "singleType",
+  "collectionName": "about_projects",
+  "info": {
+    "singularName": "about-project",
+    "pluralName": "about-projects",
+    "displayName": "About_project",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "description": {
+      "type": "text"
+    }
+  }
+}
