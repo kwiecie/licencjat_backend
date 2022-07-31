@@ -4,7 +4,8 @@
   "info": {
     "singularName": "period",
     "pluralName": "periods",
-    "displayName": "Period"
+    "displayName": "Period",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -16,6 +17,16 @@
     },
     "dates": {
       "type": "string"
+    },
+    "image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
     }
   }
 }
